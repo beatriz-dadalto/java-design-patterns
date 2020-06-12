@@ -7,6 +7,38 @@
 # BlueJ files
 *.ctxt
 
+# eclipse project file
+.settings/
+.classpath
+.project
+
+# Maven 
+target/
+
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# OS
+.DS_Store
+
+# Misc
+*.swp
+release.properties
+pom.xml.releaseBackup
+pom.xml.tag
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
