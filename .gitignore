@@ -20,6 +20,8 @@ target/
 *.iws
 *.ipr
 .idea/
+out/
+META-INF/
 
 # NetBeans specific
 nbproject/private/
